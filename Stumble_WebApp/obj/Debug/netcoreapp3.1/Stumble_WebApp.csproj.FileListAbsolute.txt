@@ -35,3 +35,8 @@ D:\Santhoshraj\programming files\trademarkia\Stumble_WebApp\Stumble_WebApp\bin\D
 D:\Santhoshraj\programming files\trademarkia\Stumble_WebApp\Stumble_WebApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
 D:\Santhoshraj\programming files\trademarkia\Stumble_WebApp\Stumble_WebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 D:\Santhoshraj\programming files\trademarkia\Stumble_WebApp\Stumble_WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Santhoshraj\programming files\trademarkia\Stumble_WebApp\Stumble_WebApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Santhoshraj\programming files\trademarkia\Stumble_WebApp\Stumble_WebApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Santhoshraj\programming files\trademarkia\Stumble_WebApp\Stumble_WebApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Santhoshraj\programming files\trademarkia\Stumble_WebApp\Stumble_WebApp\obj\Debug\netcoreapp3.1\Stumble_WebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Santhoshraj\programming files\trademarkia\Stumble_WebApp\Stumble_WebApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
