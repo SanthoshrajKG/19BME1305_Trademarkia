@@ -29,7 +29,10 @@ click on /users/{id}/{k} and enter the user-id and k-Distance and click execute 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/87854476/207599448-8d0bee2b-edca-496e-8bdd-f260e9ac3492.png)
+![image](https://user-images.githubusercontent.com/87854476/207599601-227cb7e1-c653-4736-b02e-c6566572aed8.png)
+![image](https://user-images.githubusercontent.com/87854476/207599701-c796483e-37db-45b2-afea-431820706133.png)
+![image](https://user-images.githubusercontent.com/87854476/207599761-cd55a82e-0242-4851-9fa8-01bdd55dc32b.png)
 
 
 ## Tasks Done
@@ -37,5 +40,5 @@ click on /users/{id}/{k} and enter the user-id and k-Distance and click execute 
 * Created MySQL Database and imported tables ✅
 * Created API endpoint using ASP.NET to find matches in the DB (X->Y & Y->X)✅
 * Endpoint to retrive a list of K users starting from particular Id ✅
-* Completed the API Documentation using Swagger UI 
+* Completed the API Documentation using Swagger UI ✅
 * Work at Trademarkia :-) ⏳
