@@ -1,5 +1,4 @@
-
-## Trademarkia Backend Task -Santhoshraj KG (19BME1305)
+Santhoshraj KG (19BME1305)
 “Stumble” A Dating App using ASP.NET
 
 
@@ -35,10 +34,3 @@ click on /users/{id}/{k} and enter the user-id and k-Distance and click execute 
 ![image](https://user-images.githubusercontent.com/87854476/207599761-cd55a82e-0242-4851-9fa8-01bdd55dc32b.png)
 
 
-## Tasks Done
-
-* Created MySQL Database and imported tables ✅
-* Created API endpoint using ASP.NET to find matches in the DB (X->Y & Y->X)✅
-* Endpoint to retrive a list of K users starting from particular Id ✅
-* Completed the API Documentation using Swagger UI ✅
-* Work at Trademarkia :-) ⏳
